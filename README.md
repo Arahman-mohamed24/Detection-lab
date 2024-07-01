@@ -1,4 +1,4 @@
-# Monitoring and Detection lab
+# Security Event Monitoring w/ splunk lab
 
 ## Objective
 [Brief Objective - Remove this afterwards]
