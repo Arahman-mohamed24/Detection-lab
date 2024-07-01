@@ -13,6 +13,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
+- dddddddddddddddddddddddddddddddd
 
 ### Resources
 [Bullet Points - Remove this afterwards]
