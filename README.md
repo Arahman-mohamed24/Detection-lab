@@ -36,7 +36,7 @@ Example below.
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="<img width="514" alt="Capture" src="https://github.com/Arahman-mohamed24/Detection-lab/assets/174304864/dfda94f0-e6d6-46d4-933d-2b57d1303fc7">"/>
 <br />
 <br />
 Select the disk:  <br/>
